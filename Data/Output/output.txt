@@ -1,0 +1,15 @@
+04/08/2024 18:42:12 => [Debug] Debug started for file: Main
+04/08/2024 18:42:12 => [Info] RPADev-S03P03-Dictionaries-Integers execution started
+04/08/2024 18:42:12 => [Info] RPADev-S03P03-Dictionaries-Integers.Main.Begin;
+04/08/2024 18:42:12 => [Info] RPADev-S03P03-Dictionaries-Integers.Main.Print;
+[Chris Froome, 4]
+[Alberto Contador, 2]
+[Oscar Pereiro, 1]
+[Carlos Sastre, 1]
+[Andy Schleck, 1]
+[Cadel Evans, 1]
+[Bradley Wiggins, 1]
+[Vincenzo Nibali, 1]
+[Geraint Thomas, 1]
+04/08/2024 18:42:12 => [Info] RPADev-S03P03-Dictionaries-Integers.Main.End;
+04/08/2024 18:42:12 => [Info] RPADev-S03P03-Dictionaries-Integers execution ended in: 00:00:00
