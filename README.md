@@ -30,7 +30,7 @@ Given an input dictionary containing a year and a name, please calculate the num
 
 ### Sample Output
 
-```
+```sh
 04/08/2024 18:42:12 => [Debug] Debug started for file: Main
 04/08/2024 18:42:12 => [Info] RPADev-S03P03-Dictionaries-Integers execution started
 04/08/2024 18:42:12 => [Info] RPADev-S03P03-Dictionaries-Integers.Main.Begin;
@@ -58,11 +58,13 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S03P03-Dictionaries-Integers`
+```sh
+git clone https://github.com/ShonHarsh/RPADev-S03P03-Dictionaries-Integers
+```
 
 ### Links
 - [UiPath Automation Platform](https://www.uipath.com/)
-- [UiPath Studio](https://www.uipath.com/product/studio)
+- [UiPath Studio](https://www.uipath.com/product/studio)- [Atom Editor (Used for all my Readme files)](https://atom-editor.cc/)
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
